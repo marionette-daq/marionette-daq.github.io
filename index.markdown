@@ -34,7 +34,7 @@ We wanted something reliable and fully open. That can do sophisticated things.
 These are totally wrong, but here's what we started with:
 
  What               | How Much
- ----               | --------
+ ----               | --------:
  3.3V GPIO          | 60
  12 bit 1Msps ADC	  | 15
  12 bit DAC         |  5
