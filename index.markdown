@@ -3,7 +3,7 @@ title: Marionette Open Source Data Acquisition (DAQ) System
 layout: base
 ---
 
-# Marionette Open Source Data Acquisition (DAQ) System 
+# Marionette Data Acquisition (DAQ) System 
 
 ## Overview
 
@@ -16,7 +16,12 @@ Marionette is an open hardware, firmware, and software project to bring expensiv
  
 Also, we wanted this to be heavily Python based, because we all use Python for prototyping because Python.
 
+Oh, and, rockets: we desperately need this for our work on [open source rockets](http://psas.pdx.edu/). Although the more we think about this, the more we really, really want this for our work at our various engineering companies.
+
 Finally, the name is K's fault. **Who** would name an awesome open project after creepy puppets?! <shudder>
+
+[![Marionette being demo'd at a PSU Capstone Poster presentation](images/marionette-poster-demo.jpg){: .u-max-full-width }](images/marionette-poster-demo.jpg)
+[![Marionette DAQ layout (top layer)](images/marionette-top-layout.png){: .u-max-full-width }](images/marionette-top-layout.png)
 
 ## Why
 
@@ -40,7 +45,14 @@ These are totally wrong, but here's what we started with:
 
 ## Links
 
-- [Link to hardware](https://github.com/marionette-daq/marionette-hardware)
-- [Link to firmware](https://github.com/marionette-daq/marionette-firmware)
-- [Link software](https://github.com/marionette-daq/marionette-software)
+ - [Link to hardware](https://github.com/marionette-daq/marionette-hardware)
+ - [Link to firmware](https://github.com/marionette-daq/marionette-firmware)
+ - [Link software](https://github.com/marionette-daq/marionette-software)
+ 
+## History
+ 
+ - Adopted by [APDM, Inc.](http://apdm.com/) for use on their test jigs - version 2 hardware spun by Chris Andrews.
+ - Version 1 hardware and firmware done by Portland State University 2014-2015 Student Capstone sponsored by [PSAS](http://psas.pdx.edu/) and done by Jeff Alcoke and Seth Ward. Nice work, guys!
+ - Version 0 firmware and software on some [Waveshare development boards](http://www.waveshare.com/) done by Jeff Alcoke and Jennifer Carr as part of an [APDM, Inc.](http://apdm.com/) internship.
+ 
  
