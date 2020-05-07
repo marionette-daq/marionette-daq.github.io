@@ -40,7 +40,7 @@ These are totally wrong, but here's what we started with:
  12 bit DAC         |  5
  I2C interface      |  2
  CAN 2.0B interface |  1
- SPI	interface     |  1
+ SPI	interface     |  2
  SD Card	           |  1
 
 ## Links
